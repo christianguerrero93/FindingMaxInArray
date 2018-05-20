@@ -1,1 +1,3 @@
 # FindingMaxInArray
+
+Using Recursion
